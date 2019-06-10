@@ -1,0 +1,20 @@
+{
+  "name": "rubenpurdy",
+  "version": "1.0.0",
+  "description": "Personal Webiste",
+  "main": "public/index.html",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbnprdy/rubenpurdy.git"
+  },
+  "author": "Ruben Purdy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbnprdy/rubenpurdy/issues"
+  },
+  "homepage": "https://github.com/rbnprdy/rubenpurdy#readme"
+}

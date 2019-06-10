@@ -1,0 +1,38 @@
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
+  
+.footer {
+  background-color: #f5f5f5;
+}
+
+.headshot {
+  max-width: 75%;
+  height: auto;
+}
+  
+@media screen and (max-width: 991px) {
+/* start of large tablet styles */
+  .headshot {
+    max-width: 40%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+/* start of medium tablet styles */
+  .headshot {
+    max-width: 50%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 479px) {
+/* start of phone styles */
+  .headshot {
+    max-width: 60%;
+    height: auto;
+  }
+}
